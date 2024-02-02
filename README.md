@@ -9,3 +9,7 @@ I would love to [connect](https://www.linkedin.com/in/caralifarrell/) if you sha
 Best,
 
 Cara-Li
+
+---
+
+Tech Stack: Python (Pandas, NumPy, Seaborn, Matplotlib), R (currently learning), Structured Query Language (SQL), Tableau (currently learning), Google Colab, Gurobi Optimization, Jupyter Notebook, MySQL, pgAdmin4, R-Studio, Spyder, VSCode, Yahoo Finance Application Programming Interface (API).
