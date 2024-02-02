@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my Github!
+# Hi there! 👋 Welcome to my Github!
 
 My name is Cara-Li Farrell and I am currently a student at McGill University in Montreal 🇨🇦 where I am majoring in Business Analytics with a Concentration in Finance. I am passionate about learning data analytics ✨, especially visualization as it is a powerful tool for storytelling 📖, as well as improving my presentation skills by participating in various case competitions.
 
