@@ -11,7 +11,7 @@ Outside of work and academics, I enjoy learning how to cook new dishes 🧑‍�
 
 **Tools & Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Tableau, Google Colab, Gurobi Optimization, Jupyter Notebook, MySQL, pgAdmin4, R-Studio, Spyder, Yahoo Finance Application Programming Interface (API)
 
-## My Projects 🚀
+## My Projects & Personal Learning 🚀
 
 ## Connect with Me 🤝
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/caralifarrell/)
