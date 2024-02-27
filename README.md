@@ -9,7 +9,7 @@ Outside of work and academics, I enjoy learning how to cook new dishes 🧑‍�
 ## Tech Stack 💻
 **Programming & Markup Languages:** Python, R, Structured Query Language (SQL), HTML, CSS
 
-**Tools & Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Tableau, Google Colab, Gurobi Optimization, Jupyter Notebook, MySQL, pgAdmin4, R-Studio, Spyder, Yahoo Finance Application Programming Interface (API)
+**Tools & Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Tableau, Google Colab, Gurobi Optimization, Jupyter Notebook, MySQL, pgAdmin4, R-Studio, Spyder, VSCode, PyCharm, Yahoo Finance Application Programming Interface (API)
 
 ## My Projects & Personal Learning 🚀
 Feel free to explore my [portfolio](https://github.com/caralifarrell/portfolio) to discover the projects I'm currently working on and the latest skills I'm acquiring on my own journey.
