@@ -7,7 +7,7 @@ My name is Cara-Li and I am currently a 3rd-year student at McGill University �
 Outside of work and academics, I enjoy learning how to cook new dishes 🧑‍🍳, travel 🧳 (20+ countries), and learn new languages 💬 (I know English, French, and a bit of Italian and German). 
 
 ## Tech Stack 💻
-**Programming & Markup Languages:** Python, R, Structured Query Language (SQL), HTML, CSS
+**Programming & Markup Languages:** Python, R, Structured Query Language (SQL), HTML, CSS, Swift
 
 **Tools & Frameworks:** Pandas, NumPy, Seaborn, Matplotlib, Tableau, Google Colab, Gurobi Optimization, Jupyter Notebook, MySQL, pgAdmin4, R-Studio, Spyder, VSCode, PyCharm, Yahoo Finance Application Programming Interface (API)
 
