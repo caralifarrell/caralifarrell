@@ -2,7 +2,7 @@
 
 ## About Me 🌱
 
-My name is Cara-Li and I am currently a 3rd-year student at McGill University 🇨🇦 where I am majoring in Business Analytics with a Concentration in Finance. I am passionate about learning data analytics ✨, especially visualization as it is a powerful tool for storytelling 📖, as well as improving my presentation skills by participating in various case competitions.
+My name is Cara-Li and I am a new graduate from McGill University 🇨🇦 where I majored in Business Analytics with a Concentration in Finance. I am passionate about learning data analytics ✨, especially visualization as it is a powerful tool for storytelling 📖, as well as improving my presentation skills by participating in various case competitions.
 
 Outside of work and academics, I enjoy learning how to cook new dishes 🧑‍🍳, travel 🧳 (20+ countries), and learn new languages 💬 (I know English, French, and a bit of Italian and German). 
 
